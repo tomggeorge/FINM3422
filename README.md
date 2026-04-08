@@ -3,6 +3,8 @@
 
 This repository contains **lecture and tutorial materials** for FINM3422 at The University of Queensland
 
+This is my Lecture 6 demo update
+
 ## What this repo is
 
 - Jupyter notebooks used in **lectures** (examples, live demos)
